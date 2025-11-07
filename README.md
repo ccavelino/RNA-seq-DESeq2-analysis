@@ -235,7 +235,7 @@ bash scripts/03_preprocessing.sh
 
 **Problem:** STAR alignment fails with "not enough memory"
 ```bash
-# Solution: Reduce number of threads or increase available RAM
+# Solution: Reduce the number of threads or increase the available RAM
 --limitBAMsortRAM 30000000000  # Add to STAR command
 ```
 
@@ -249,22 +249,16 @@ bash scripts/03_preprocessing.sh
 
 **Camila Avelino**  
 PhD, Genetics  
-Bioinformatician at CEGH-USP  
 
 For questions, suggestions, or collaboration:
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [your-profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@cavelino](https://github.com/cavelino)
+- Email: avelino.c@icloud.com
+- LinkedIn:(https://www.linkedin.com/in/camila-c-avelino/))
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Human Genome and Stem Cell Research Center (CEGH-USP)
-- Treacher Collins Syndrome Research Team
-- DESeq2 and Bioconductor communities
 
 ---
 
