@@ -251,7 +251,7 @@ bash scripts/03_preprocessing.sh
 PhD, Genetics  
 
 For questions, suggestions, or collaboration:
-- GitHub: [@ccavelino](https://github.com/cavelino)
+- GitHub: [@ccavelino](https://github.com/ccavelino)
 - Email: avelino.c@icloud.com
 - LinkedIn:(https://www.linkedin.com/in/camila-c-avelino/))
 
