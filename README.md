@@ -214,7 +214,7 @@ This pipeline is suitable for:
 If you use this pipeline, please cite:
 
 ```
-[Your Name]. (2024). RNA-seq Differential Expression Analysis Pipeline. 
+Avelino, Camila. (2024). RNA-seq Differential Expression Analysis Pipeline. 
 GitHub repository: https://github.com/yourusername/RNA-seq-differential-expression-pipeline
 ```
 
